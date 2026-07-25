@@ -1,0 +1,25 @@
+{
+  "token": "",
+  "user_id": "",
+  "edit_text": ".",
+  "mode": "Edit, then delete",
+  "dry_run": false,
+  "edit_delay": 3.0,
+  "delete_delay": 3.0,
+  "read_delay": 0.8,
+  "channel_ids": [
+  ],
+  "dm_ids": [],
+  "names": {
+  },
+  "react": {
+    "channel_id": "",
+    "emojis": [],
+    "target": "All messages",
+    "author_id": "",
+    "recent_n": 50,
+    "assign": "Same emoji each time",
+    "react_delay": 1.0,
+    "msg_delay": 0.4
+  }
+}
